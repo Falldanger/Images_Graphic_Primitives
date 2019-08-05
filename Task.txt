@@ -1,0 +1,5 @@
+Work with images. Graphic primitives
+
+Draw a little man (head, torso, arms, legs, eyes, mouth, nose, ears).
+Color it with the appropriate colors.
+Output it to the browser and save it to a file.
